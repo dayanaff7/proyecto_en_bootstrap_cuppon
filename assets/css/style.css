@@ -1,0 +1,24 @@
+body{
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+
+}
+header{
+    padding: 10px;
+
+}
+.precio_ant{
+    text-decoration: line-through;
+    color: #707070;
+}
+.precio_new {
+    color: #28a745;
+    font-weight: bold;
+}
+section{
+    background-color: #28a745;
+    color: white;
+    padding: 0.5em;
+
+}
